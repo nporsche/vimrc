@@ -159,7 +159,6 @@ if has("gui_running")
     set guioptions-=e
     set t_Co=256
     set guitablabel=%M\ %t
-    set guifont=Meslo_LG_M_DZ_Regular_for_Powerline:h14
 endif
 
 " Set utf8 as standard encoding and en_US as the standard language
