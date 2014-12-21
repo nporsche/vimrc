@@ -160,3 +160,8 @@ if !exists('g:neocomplete#sources#omni#input_patterns')
 endif
 
 let g:neocomplete#sources#omni#input_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
+
+""""""""""""""""""""""""""""""
+" => Tagbar
+""""""""""""""""""""""""""""""
+nmap <F8> :TagbarToggle<CR>
