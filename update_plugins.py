@@ -8,6 +8,7 @@ from os import path
 
 #--- Globals ----------------------------------------------
 PLUGINS = """
+a.vim https://github.com/vim-scripts/a.vim
 tagbar https://github.com/majutsushi/tagbar
 neocomplete.vim https://github.com/Shougo/neocomplete.vim
 ack.vim https://github.com/mileszs/ack.vim
