@@ -8,6 +8,7 @@ from os import path
 
 #--- Globals ----------------------------------------------
 PLUGINS = """
+emmet-vim https://github.com/mattn/emmet-vim
 SrcExpl https://github.com/wesleyche/SrcExpl
 jedi-vim https://github.com/davidhalter/jedi-vim
 a.vim https://github.com/vim-scripts/a.vim
